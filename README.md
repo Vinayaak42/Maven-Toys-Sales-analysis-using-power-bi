@@ -1,5 +1,9 @@
 # 🧸 Maven Toys Sales Analysis with Power BI
+
+##  Dashboard
 ![Dashboard](https://github.com/Vinayaak42/Maven-Toys-Sales-analysis-using-power-bi/blob/main/Maven_Toys_Dashboard.png)
+
+##  SCHEMA MODEL VIEW
 ![SCHEMA MODEL VIEW](https://github.com/Vinayaak42/Maven-Toys-Sales-analysis-using-power-bi/blob/main/MODEL_VIEW.png)
 
 ## 📊 Project Overview
