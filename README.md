@@ -1,5 +1,5 @@
 # 🧸 Maven Toys Sales Analysis with Power BI
-![Dashboard]
+![Dashboard](https://github.com/Vinayaak42/Maven-Toys-Sales-analysis-using-power-bi/blob/main/Maven_Toys_Dashboard.png)
 
 ## 📊 Project Overview
 This Power BI dashboard analyzes sales data for Maven Toys, offering insights into performance across time periods, products, and store locations. It includes key metrics like Year-to-Date (YTD) sales, Month-to-Date (MTD) sales, and growth comparisons with the previous year.
